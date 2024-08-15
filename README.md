@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Ajay</h1>
 <h3 align="center">A passionate Computer Science student at Reva University.</h3>
 
-- 🌱 I’m currently learning **React**
 
-- 💬 Ask me about **Java,react**
+
+
 
 - 📫 How to reach me **ajayk08112001@gmail.com**
 
