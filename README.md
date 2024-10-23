@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ajay</h1>
-<h3 align="center">A passionate Computer Science student at Reva University.</h3>
+<h3 align="center">Welcome to My Pro/File/</h3>
 
 
 
